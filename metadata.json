@@ -1,0 +1,5 @@
+{
+  "name": "Ponto Certo - Gerenciador de Horas",
+  "description": "Um aplicativo web para gerenciar horários de entrada e saída da empresa, calcular horas trabalhadas e horas extras, e gerenciar um banco de horas. Inclui relatórios e login simulado com Google.",
+  "requestFramePermissions": []
+}
